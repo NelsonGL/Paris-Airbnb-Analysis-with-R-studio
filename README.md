@@ -2,10 +2,6 @@ R4BD Project
 ================
 Nelson López
 
-``` r
-load("C:/users/nosle/Desktop/Assigmments/R Assignment/AirBnB.RData")
-```
-
 ## Libraries import
 
 For this analysis we will use the following libraries:
