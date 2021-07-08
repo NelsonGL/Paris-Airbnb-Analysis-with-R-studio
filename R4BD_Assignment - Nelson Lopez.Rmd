@@ -7,6 +7,10 @@ output: github_document
 ```{r setup, include=FALSE} 
 knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
 ```
+```{r}
+library(rsconnect)
+rsconnect::deployApp("C:/users/nosle/Desktop/Assigmments/R Assignment/")
+```
 
 ```{r}
 load("C:/users/nosle/Desktop/Assigmments/R Assignment/AirBnB.RData")
