@@ -1,4 +1,4 @@
-R4BD Project
+Paris Airbnb Analysis with R studio
 ================
 Nelson López
 
